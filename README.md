@@ -1,4 +1,4 @@
-# TP Chapitre 2 — Pipelines agiles avec dlt, dbt et Dagster
+# Pipelines agiles avec dlt, dbt et Dagster
 
 > Module : MLOps & DataOps — Master d'Excellence Intelligence Artificielle  
 > Auteure : Malika CHAABAN | Année Universitaire : 2025-2026
